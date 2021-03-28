@@ -1,0 +1,9 @@
+Git Hub :
+
+1.	Create an account
+2.	Create new repository 
+3.	Open command prompt, go to the project folder which needs to be pushed to git.
+   	i.e. C:\Users\rajas\eclipse-workspace\Udemy-maven-demo
+4.	git init	-	initialize git
+5.	git status	-	shows folders which are not checked in (red color)
+6.
