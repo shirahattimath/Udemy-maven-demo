@@ -6,4 +6,9 @@ Git Hub :
    	i.e. C:\Users\rajas\eclipse-workspace\Udemy-maven-demo
 4.	git init	-	initialize git
 5.	git status	-	shows folders which are not checked in (red color)
-6.
+6.	git add .
+7.	git status	-	shows folders which are checked in (green color)
+8.	git commit -m "First git commit"
+9.	git push origin master, but before that open Git Bash
+10. ssh-keygen
+11.	git push origin master, will ask Git ssh key and pushes the code
